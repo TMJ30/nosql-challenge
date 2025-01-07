@@ -36,3 +36,6 @@ The UK Food Standards Agency evaluates various establishments across the United 
                 "Distance":4623.9723280747176,
                 "NewRatingPending":True
             }
+**Part 3: Exploratory Analysis**
+
+Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
