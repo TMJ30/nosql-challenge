@@ -37,3 +37,7 @@ Used the cleaned MongoDB data to answer key editorial questions:
 * **Hygiene Score of 0 by Local Authority:**
   * Aggregated number of establishments with hygiene score = 0 per Local Authority
   * Sorted results to identify top 10 areas
+
+## Data Processing
+* Converted MongoDB query results into Pandas DataFrames
+* Displayed number of rows and first 10 records 
