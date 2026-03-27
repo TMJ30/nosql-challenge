@@ -14,3 +14,10 @@ The project involves three key stages:
 * Verified data import:
   * Listed databases and collections
   * Viewed a sample document using `find_one()` and `pprint`
+ 
+## Database Updates
+* Added a new halal restaurant in Greenwich (`Penang Flavors`)
+* Updated the restaurant with the correct `BusinessTypeID`
+* Removed all establishments in Dover Local Authority
+* Converted numeric fields stored as strings to proper data types
+  * `Latitude` and `Longtiude` -> float
