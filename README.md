@@ -34,3 +34,6 @@ Used the cleaned MongoDB data to answer key editorial questions:
   * Found top 5 establishments with `RatingValue = 5`
   * Sorted by lowest hygiene score
   * Filtered within ±0.01 degrees latitude/longitude of the new restaurant
+* **Hygiene Score of 0 by Local Authority:**
+  * Aggregated number of establishments with hygiene score = 0 per Local Authority
+  * Sorted results to identify top 10 areas
