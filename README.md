@@ -24,4 +24,13 @@ The project involves three key stages:
   * `RatingValue` → integer
 
 ## Exploratory Analysis
-
+Used the cleaned MongoDB data to answer key editorial questions:
+* **Hygiene Score of 20**
+  * Counted establishments with hygiene score = 20
+  * Displayed sample document
+* **London Establishments with High Ratings**
+  * Located establishments with `RatingValue >= 4` using `$regex` for London Local Authorities
+* **Top Rated Establishments Near "Penang Flavours"**:
+  * Found top 5 establishments with `RatingValue = 5`
+  * Sorted by lowest hygiene score
+  * Filtered within ±0.01 degrees latitude/longitude of the new restaurant
