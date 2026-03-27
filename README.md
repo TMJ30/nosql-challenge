@@ -20,4 +20,7 @@ The project involves three key stages:
 * Updated the restaurant with the correct `BusinessTypeID`
 * Removed all establishments in Dover Local Authority
 * Converted numeric fields stored as strings to proper data types
-  * `Latitude` and `Longtiude` -> float
+  * `Latitude` and `Longtiude` → float
+  * `RatingValue` → integer
+
+##
