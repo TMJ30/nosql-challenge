@@ -23,4 +23,5 @@ The project involves three key stages:
   * `Latitude` and `Longtiude` → float
   * `RatingValue` → integer
 
-##
+## Exploratory Analysis
+
